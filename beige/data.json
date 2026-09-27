@@ -1,0 +1,447 @@
+{
+  "name": "بيج استديو الأظافر",
+  "en": "Beige Nail Studio",
+  "area": "الروابي",
+  "phone": "966537630319",
+  "handle": "beigenailsa",
+  "fresha": "https://www.fresha.com/a/beige-nail-studio-riyadh-al-ameer-saad-bin-abdulrahman-al-awwal-road-riyadh-14216-qgqaki58",
+  "map": "https://maps.app.goo.gl/cznaPaKT7foWH9KS8",
+  "address": "طريق الأمير سعد بن عبدالرحمن الأول، حي الروابي، الرياض",
+  "hours": "حسب Fresha: الاثنين–السبت ١ ظهرًا–١٢ ليلًا. يوم الأحد (يحتاج تأكيد): البايو يذكر طوال الأسبوع وFresha يذكر مغلق.",
+  "title": "كل تفصيلة، لها لونكِ.",
+  "subtitle": "من فرنش هادئ إلى أومبري وBIAB. مساحة متخصصة لأظافركِ، وخيارات عناية تختارينها على مهل.",
+  "hero": "work-3.jpg",
+  "why": [
+    [
+      "تخصص في الأظافر",
+      "خدمات تنظيف روسي، جل، BIAB، إضافات رسم وإزالة؛ إلى جانب العناية السريعة."
+    ],
+    [
+      "تفاصيل يمكنكِ رؤيتها",
+      "أعمال فرنش وأومبري منشورة من الاستديو، مرتبطة بمصدرها لتشاهدي النتيجة عن قرب."
+    ],
+    [
+      "خيارات للزيارة القصيرة",
+      "خدمات Quick Fix منشورة بمدد ٢٠–٤٠ دقيقة، مع أسعار منفصلة لليدين والقدمين."
+    ]
+  ],
+  "groups": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      2,
+      0
+    ],
+    [
+      3,
+      0
+    ],
+    [
+      3,
+      1
+    ]
+  ],
+  "work": [
+    [
+      "work-2.jpg",
+      "جل وفرنش",
+      "p/DbYfDcaR2Nb/"
+    ],
+    [
+      "work-3.jpg",
+      "BIAB أومبري",
+      "p/DbYe_vOggC_/"
+    ],
+    [
+      "work-4.jpg",
+      "من معرض بيج",
+      "p/Dcv54Ipsg-s/"
+    ]
+  ],
+  "accent": "#41483C",
+  "pale": "#EFE9DF",
+  "key": "beige",
+  "base": "https://az212z.github.io/waqea-proposals-20260927/beige/",
+  "selected": [
+    {
+      "name": "عناية سريعة لليدين والقدمين",
+      "price": "125 ر.س",
+      "duration": "40 دقيقة"
+    },
+    {
+      "name": "عناية سريعة لليدين",
+      "price": "61 ر.س",
+      "duration": "20 دقيقة"
+    },
+    {
+      "name": "عناية سريعة للقدمين",
+      "price": "75 ر.س",
+      "duration": "20 دقيقة"
+    },
+    {
+      "name": "تنظيف روسي للأظافر",
+      "price": "170 ر.س",
+      "duration": "60 دقيقة"
+    },
+    {
+      "name": "عناية سيغنتشر لليدين والقدمين",
+      "price": "265 ر.س",
+      "duration": "75 دقيقة"
+    },
+    {
+      "name": "رسم الأظافر — ١٠ أظافر",
+      "price": "135 ر.س",
+      "duration": "40 دقيقة"
+    },
+    {
+      "name": "طبقة جل على الأظافر الطبيعية",
+      "price": "298 ر.س",
+      "duration": "80 دقيقة"
+    },
+    {
+      "name": "تركيب أظافر بالسوفت جل",
+      "price": "200 ر.س",
+      "duration": "90 دقيقة"
+    }
+  ],
+  "catalog": [
+    {
+      "name": "عناية سريعة لليدين والقدمين",
+      "price": "125 ر.س",
+      "duration": "40 دقيقة",
+      "group": "خدمات السريعة quick fix",
+      "id": "s:24510560",
+      "value": 125
+    },
+    {
+      "name": "عناية سريعة لليدين",
+      "price": "61 ر.س",
+      "duration": "20 دقيقة",
+      "group": "خدمات السريعة quick fix",
+      "id": "s:11757979",
+      "value": 61
+    },
+    {
+      "name": "عناية سريعة للقدمين",
+      "price": "75 ر.س",
+      "duration": "20 دقيقة",
+      "group": "خدمات السريعة quick fix",
+      "id": "s:11757976",
+      "value": 75
+    },
+    {
+      "name": "تنظيف روسي للأظافر",
+      "price": "170 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Nails Services خدمات الأظافر",
+      "id": "s:25345640",
+      "value": 170
+    },
+    {
+      "name": "عناية سيغنتشر لليدين والقدمين",
+      "price": "265 ر.س",
+      "duration": "75 دقيقة",
+      "group": "Nails Services خدمات الأظافر",
+      "id": "s:13023940",
+      "value": 265
+    },
+    {
+      "name": "Signature mani (يدين)",
+      "price": "135 ر.س",
+      "duration": "45 دقيقة",
+      "group": "Nails Services خدمات الأظافر",
+      "id": "s:13023951",
+      "value": 135
+    },
+    {
+      "name": "Signature pedi (أقدام)",
+      "price": "140 ر.س",
+      "duration": "40 دقيقة",
+      "group": "Nails Services خدمات الأظافر",
+      "id": "s:13023948",
+      "value": 140
+    },
+    {
+      "name": "Classic Manicure & Pedicure(يدين وأقدام)",
+      "price": "198 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Nails Services خدمات الأظافر",
+      "id": "s:11757974",
+      "value": 198
+    },
+    {
+      "name": "Classic Manicure(يدين)",
+      "price": "110 ر.س",
+      "duration": "30 دقيقة",
+      "group": "Nails Services خدمات الأظافر",
+      "id": "s:11757973",
+      "value": 110
+    },
+    {
+      "name": "Classic Pedicure(أقدام)",
+      "price": "120 ر.س",
+      "duration": "30 دقيقة",
+      "group": "Nails Services خدمات الأظافر",
+      "id": "s:11757969",
+      "value": 120
+    },
+    {
+      "name": "One session classic manicure & pedicure",
+      "price": "198 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Nails Services خدمات الأظافر",
+      "id": "p:470002",
+      "value": 198
+    },
+    {
+      "name": "رسم الأظافر — ١٠ أظافر",
+      "price": "135 ر.س",
+      "duration": "40 دقيقة",
+      "group": "Nails - Add Ons إضافات - الأظافر",
+      "id": "s:25493337",
+      "value": 135
+    },
+    {
+      "name": "Polka Dot French فرنش بنقط",
+      "price": "51 ر.س",
+      "duration": "25 دقيقة",
+      "group": "Nails - Add Ons إضافات - الأظافر",
+      "id": "s:24408629",
+      "value": 51
+    },
+    {
+      "name": "Ombré Gel effect only اضافة جل اومبري لخدمات الجل",
+      "price": "60 ر.س",
+      "duration": "20 دقيقة",
+      "group": "Nails - Add Ons إضافات - الأظافر",
+      "id": "s:21802111",
+      "value": 60
+    },
+    {
+      "name": "تركيب اظافر (ظفر واحد)",
+      "price": "14.5 ر.س",
+      "duration": "10 دقيقة",
+      "group": "Nails - Add Ons إضافات - الأظافر",
+      "id": "s:20707196",
+      "value": 14.5
+    },
+    {
+      "name": "Ombre regular polish اومبري لون عادي",
+      "price": "65 ر.س",
+      "duration": "20 دقيقة",
+      "group": "Nails - Add Ons إضافات - الأظافر",
+      "id": "s:13640108",
+      "value": 65
+    },
+    {
+      "name": "Chrome French",
+      "price": "48 ر.س",
+      "duration": "40 دقيقة",
+      "group": "Nails - Add Ons إضافات - الأظافر",
+      "id": "s:12919231",
+      "value": 48
+    },
+    {
+      "name": "تركيب اظافر acrylic nails",
+      "price": "145 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Nails - Add Ons إضافات - الأظافر",
+      "id": "s:14160372",
+      "value": 145
+    },
+    {
+      "name": "Essie gel couture",
+      "price": "35 ر.س",
+      "duration": "15 دقيقة",
+      "group": "Nails - Add Ons إضافات - الأظافر",
+      "id": "s:12919215",
+      "value": 35
+    },
+    {
+      "name": "Nail Art (per nail )",
+      "price": "15 ر.س",
+      "duration": "10 دقيقة",
+      "group": "Nails - Add Ons إضافات - الأظافر",
+      "id": "s:12798678",
+      "value": 15
+    },
+    {
+      "name": "Chrome Nails",
+      "price": "45 ر.س",
+      "duration": "15 دقيقة",
+      "group": "Nails - Add Ons إضافات - الأظافر",
+      "id": "s:12556060",
+      "value": 45
+    },
+    {
+      "name": "Nail Color",
+      "price": "21 ر.س",
+      "duration": "15 دقيقة",
+      "group": "Nails - Add Ons إضافات - الأظافر",
+      "id": "s:11757944",
+      "value": 21
+    },
+    {
+      "name": "French Nails",
+      "price": "45 ر.س",
+      "duration": "20 دقيقة",
+      "group": "Nails - Add Ons إضافات - الأظافر",
+      "id": "s:11757940",
+      "value": 45
+    },
+    {
+      "name": "طبقة جل على الأظافر الطبيعية",
+      "price": "298 ر.س",
+      "duration": "80 دقيقة",
+      "group": "Gel nail",
+      "id": "s:25070258",
+      "value": 298
+    },
+    {
+      "name": "تركيب أظافر بالسوفت جل",
+      "price": "200 ر.س",
+      "duration": "90 دقيقة",
+      "group": "Gel nail",
+      "id": "s:21655798",
+      "value": 200
+    },
+    {
+      "name": "Gel color - the gel bottle (feet)",
+      "price": "98 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Gel nail",
+      "id": "s:21563646",
+      "value": 98
+    },
+    {
+      "name": "French gel color",
+      "price": "120 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Gel nail",
+      "id": "s:21563534",
+      "value": 120
+    },
+    {
+      "name": "Biab gel extensions (with french or ombre).   اكستنشن بياب جل (فرنش/اومبري)",
+      "price": "497 ر.س",
+      "duration": "150 دقيقة",
+      "group": "Gel nail",
+      "id": "s:21563465",
+      "value": 497
+    },
+    {
+      "name": "Gel color (the gel bottle) - hands",
+      "price": "90 ر.س",
+      "duration": "35 دقيقة",
+      "group": "Gel nail",
+      "id": "s:20715002",
+      "value": 90
+    },
+    {
+      "name": "Biab Gel Extensions (with color)",
+      "price": "470 ر.س",
+      "duration": "100 دقيقة",
+      "group": "Gel nail",
+      "id": "s:17629580",
+      "value": 470
+    },
+    {
+      "name": "Biab gel builder (without extensions)",
+      "price": "290 ر.س",
+      "duration": "90 دقيقة",
+      "group": "Gel nail",
+      "id": "s:16720136",
+      "value": 290
+    },
+    {
+      "name": "Gel refill اعادة تعبئة جل",
+      "price": "290 ر.س",
+      "duration": "105 دقيقة",
+      "group": "Gel nail",
+      "id": "s:15220678",
+      "value": 290
+    },
+    {
+      "name": "Ombre gel color and base  اومبري و لون جل",
+      "price": "100 ر.س",
+      "duration": "30 دقيقة",
+      "group": "Gel nail",
+      "id": "s:13640112",
+      "value": 100
+    },
+    {
+      "name": "Cat Eye Gel جل الكات اي",
+      "price": "95 ر.س",
+      "duration": "25 دقيقة",
+      "group": "Gel nail",
+      "id": "s:13262303",
+      "value": 95
+    },
+    {
+      "name": "أزالة لون جل  (gel color removal)",
+      "price": "40 ر.س",
+      "duration": "30 دقيقة",
+      "group": "خدمات الإزالة Removals",
+      "id": "s:15065773",
+      "value": 40
+    },
+    {
+      "name": "ازالة جل اكستشن او بياب او سوفت جل(nail extensions/builder/soft gel removal)",
+      "price": "110 ر.س",
+      "duration": "60 دقيقة",
+      "group": "خدمات الإزالة Removals",
+      "id": "s:15065816",
+      "value": 110
+    },
+    {
+      "name": "Remove press on - ازالة تركيب اظافر",
+      "price": "35 ر.س",
+      "duration": "60 دقيقة",
+      "group": "خدمات الإزالة Removals",
+      "id": "s:21565872",
+      "value": 35
+    },
+    {
+      "name": "Little Princess Spa ( Mani )",
+      "price": "30 ر.س",
+      "duration": "20 دقيقة",
+      "group": "Little Princess Spa",
+      "id": "s:11852575",
+      "value": 30
+    },
+    {
+      "name": "Little Princess Spa ( Pedi )",
+      "price": "35 ر.س",
+      "duration": "20 دقيقة",
+      "group": "Little Princess Spa",
+      "id": "s:11852577",
+      "value": 35
+    },
+    {
+      "name": "Birthday celebration",
+      "price": "100 ر.س",
+      "duration": "5 دقيقة",
+      "group": "Occasion Celebration احتفال",
+      "id": "s:13026979",
+      "value": 100
+    }
+  ]
+}

@@ -1,0 +1,557 @@
+{
+  "name": "وي صالون",
+  "en": "We Salon",
+  "area": "التعاون",
+  "phone": "966551000450",
+  "handle": "wesalon.sa",
+  "fresha": "https://www.fresha.com/a/we-salon-riyadh-6625-abi-bakr-as-siddiq-branch-road-qqox0ucv",
+  "map": "https://maps.app.goo.gl/CJP8Yd1p11njk17m8",
+  "address": "٦٦٢٥ طريق أبي بكر الصديق الفرعي، حي التعاون، الرياض",
+  "hours": "الأحد–الخميس: ٢ ظهرًا–١٠ مساءً • الجمعة والسبت: ١ ظهرًا–٩ مساءً",
+  "title": "جمالكِ، بتوقيع We.",
+  "subtitle": "من تفاصيل التسريحة إلى اللمسة الأخيرة للمكياج. اكتشفي أعمالنا وخدمات الشعر والمكياج والأظافر، وخططي لزيارتكِ.",
+  "hero": "work-1.jpg",
+  "why": [
+    [
+      "أعمال تتكلم",
+      "صور منشورة لتسريحات الشعر والصبغات والمكياج والأظافر، لتختاري من أعمال فعلية."
+    ],
+    [
+      "تخصصات تتكامل",
+      "قائمة واحدة تشمل المكياج، التصفيف، الصبغات، العناية بالشعر وخدمات الأظافر."
+    ],
+    [
+      "اختيارات واضحة للمناسبة",
+      "خدمات منفصلة لمكياج السهرة والعروس وتسريحة العروس؛ الأسعار والمدد ظاهرة قبل طلب الموعد."
+    ]
+  ],
+  "groups": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      2,
+      0
+    ],
+    [
+      4,
+      0
+    ],
+    [
+      5,
+      0
+    ],
+    [
+      5,
+      2
+    ]
+  ],
+  "work": [
+    [
+      "work-4.jpg",
+      "لون وتصفيف الشعر",
+      "p/DcvnXnOoiIU/"
+    ],
+    [
+      "work-5.jpg",
+      "مكياج من أعمال We",
+      "p/DcTUd9jIyls/"
+    ],
+    [
+      "work-3.jpg",
+      "أظافر فرنش",
+      "p/Dc0w1vkoFTU/"
+    ],
+    [
+      "work-2.jpg",
+      "تفاصيل التسريحة",
+      "p/DdT6Y1coPHj/"
+    ]
+  ],
+  "accent": "#171715",
+  "pale": "#F1EEE8",
+  "key": "we",
+  "base": "https://az212z.github.io/waqea-proposals-20260927/we/",
+  "selected": [
+    {
+      "name": "مكياج سهرة",
+      "price": "690 ر.س",
+      "duration": "60 دقيقة"
+    },
+    {
+      "name": "مكياج سهرة شامل الجسم",
+      "price": "860 ر.س",
+      "duration": "60 دقيقة"
+    },
+    {
+      "name": "مكياج عروس",
+      "price": "1380 ر.س",
+      "duration": "90 دقيقة"
+    },
+    {
+      "name": "تسريحة",
+      "price": "تبدأ من 450 ر.س",
+      "duration": "50–60 دقيقة"
+    },
+    {
+      "name": "تسريحة عروس",
+      "price": "805 ر.س",
+      "duration": "75 دقيقة"
+    },
+    {
+      "name": "صبغة بدون امونيا قصير Ammonia-free dye Short I",
+      "price": "660 ر.س",
+      "duration": "60 دقيقة"
+    },
+    {
+      "name": "وي تريتمنت بارد للشعر المصبوغ",
+      "price": "320 ر.س",
+      "duration": "60 دقيقة"
+    },
+    {
+      "name": "تنظيف مانيكير روسي جاف",
+      "price": "180 ر.س",
+      "duration": "45 دقيقة"
+    },
+    {
+      "name": "كلاسيك مانيكير",
+      "price": "120 ر.س",
+      "duration": "60 دقيقة"
+    }
+  ],
+  "catalog": [
+    {
+      "name": "مكياج سهرة",
+      "price": "690 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Makeup | مكياج",
+      "id": "s:19584257",
+      "value": 690
+    },
+    {
+      "name": "مكياج سهرة شامل الجسم",
+      "price": "860 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Makeup | مكياج",
+      "id": "s:19584269",
+      "value": 860
+    },
+    {
+      "name": "مكياج عروس",
+      "price": "1380 ر.س",
+      "duration": "90 دقيقة",
+      "group": "Makeup | مكياج",
+      "id": "s:19584273",
+      "value": 1380
+    },
+    {
+      "name": "مكياج عيون",
+      "price": "345 ر.س",
+      "duration": "30 دقيقة",
+      "group": "Makeup | مكياج",
+      "id": "s:19584280",
+      "value": 345
+    },
+    {
+      "name": "مكياج جسم",
+      "price": "170 ر.س",
+      "duration": "15 دقيقة",
+      "group": "Makeup | مكياج",
+      "id": "s:20080796",
+      "value": 170
+    },
+    {
+      "name": "رموش للمناسبات",
+      "price": "75 ر.س",
+      "duration": "10 دقيقة",
+      "group": "Makeup | مكياج",
+      "id": "s:20237721",
+      "value": 75
+    },
+    {
+      "name": "رموش أسبوعية",
+      "price": "150 ر.س",
+      "duration": "35 دقيقة",
+      "group": "Makeup | مكياج",
+      "id": "s:21003252",
+      "value": 150
+    },
+    {
+      "name": "رفع رموش",
+      "price": "350 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Makeup | مكياج",
+      "id": "s:23049639",
+      "value": 350
+    },
+    {
+      "name": "رفع حواجب",
+      "price": "285 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Makeup | مكياج",
+      "id": "s:23049645",
+      "value": 285
+    },
+    {
+      "name": "تسريحة",
+      "price": "تبدأ من 450 ر.س",
+      "duration": "50–60 دقيقة",
+      "group": "Hair Styling I تصفيف الشعر",
+      "id": "s:19584485",
+      "value": 450
+    },
+    {
+      "name": "تسريحة عروس",
+      "price": "805 ر.س",
+      "duration": "75 دقيقة",
+      "group": "Hair Styling I تصفيف الشعر",
+      "id": "s:21061404",
+      "value": 805
+    },
+    {
+      "name": "تسريحة الخريجات 🎓",
+      "price": "375 ر.س",
+      "duration": "50 دقيقة",
+      "group": "Hair Styling I تصفيف الشعر",
+      "id": "s:23710828",
+      "value": 375
+    },
+    {
+      "name": "سشوار فوليوم",
+      "price": "تبدأ من 230 ر.س",
+      "duration": "45–60 دقيقة",
+      "group": "Hair Styling I تصفيف الشعر",
+      "id": "s:19584452",
+      "value": 230
+    },
+    {
+      "name": "ويفي فرشة",
+      "price": "تبدأ من 170 ر.س",
+      "duration": "45 دقيقة",
+      "group": "Hair Styling I تصفيف الشعر",
+      "id": "s:19584437",
+      "value": 170
+    },
+    {
+      "name": "سشوار+ (فير) ويفي",
+      "price": "تبدأ من 230 ر.س",
+      "duration": "45 دقيقة",
+      "group": "Hair Styling I تصفيف الشعر",
+      "id": "s:19584447",
+      "value": 230
+    },
+    {
+      "name": "سشوار عادي",
+      "price": "تبدأ من 150 ر.س",
+      "duration": "30–35 دقيقة",
+      "group": "Hair Styling I تصفيف الشعر",
+      "id": "s:19584381",
+      "value": 150
+    },
+    {
+      "name": "قص كامل الشعر + سشوار",
+      "price": "350 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Hair Styling I تصفيف الشعر",
+      "id": "s:21017886",
+      "value": 350
+    },
+    {
+      "name": "صبغة جذور + سشوار",
+      "price": "تبدأ من 375 ر.س",
+      "duration": "90–120 دقيقة",
+      "group": "Hair Styling I تصفيف الشعر",
+      "id": "s:23107779",
+      "value": 375
+    },
+    {
+      "name": "قص شعر كامل",
+      "price": "230 ر.س",
+      "duration": "20 دقيقة",
+      "group": "Hair Styling I تصفيف الشعر",
+      "id": "s:19584369",
+      "value": 230
+    },
+    {
+      "name": "قص أطراف",
+      "price": "115 ر.س",
+      "duration": "20 دقيقة",
+      "group": "Hair Styling I تصفيف الشعر",
+      "id": "s:19584373",
+      "value": 115
+    },
+    {
+      "name": "قص غرة",
+      "price": "90 ر.س",
+      "duration": "20 دقيقة",
+      "group": "Hair Styling I تصفيف الشعر",
+      "id": "s:19584377",
+      "value": 90
+    },
+    {
+      "name": "صبغة بدون امونيا قصير Ammonia-free dye Short I",
+      "price": "660 ر.س",
+      "duration": "60 دقيقة",
+      "group": "صبغه الشعر",
+      "id": "s:25281764",
+      "value": 660
+    },
+    {
+      "name": "صبغة بدون امونيا متوسط Ammonia-free dye Medium I",
+      "price": "860 ر.س",
+      "duration": "60 دقيقة",
+      "group": "صبغه الشعر",
+      "id": "s:25281778",
+      "value": 860
+    },
+    {
+      "name": "صبغة بدون امونيا طويل Ammonia-free dye Long I",
+      "price": "1060 ر.س",
+      "duration": "60 دقيقة",
+      "group": "صبغه الشعر",
+      "id": "s:25281793",
+      "value": 1060
+    },
+    {
+      "name": "I Contour كونتور , قصير Short hair I",
+      "price": "500 ر.س",
+      "duration": "60 دقيقة",
+      "group": "صبغه الشعر",
+      "id": "s:25273206",
+      "value": 500
+    },
+    {
+      "name": "I Contour كونتور , متوسط Medium hair I",
+      "price": "600 ر.س",
+      "duration": "60 دقيقة",
+      "group": "صبغه الشعر",
+      "id": "s:25273214",
+      "value": 600
+    },
+    {
+      "name": "I Contour كونتور , طويل Long hair I",
+      "price": "700 ر.س",
+      "duration": "60 دقيقة",
+      "group": "صبغه الشعر",
+      "id": "s:25273222",
+      "value": 700
+    },
+    {
+      "name": "هايلايت highlight I , هايلايت قصير Short hair I",
+      "price": "900 ر.س",
+      "duration": "180 دقيقة",
+      "group": "صبغه الشعر",
+      "id": "s:25272955",
+      "value": 900
+    },
+    {
+      "name": "هايلايت highlight I , هايلايت متوسط Medium hair I",
+      "price": "1200 ر.س",
+      "duration": "180 دقيقة",
+      "group": "صبغه الشعر",
+      "id": "s:25272936",
+      "value": 1200
+    },
+    {
+      "name": "هايلايت highlight I , هايلايت طويل Long hair I",
+      "price": "1500 ر.س",
+      "duration": "180 دقيقة",
+      "group": "صبغه الشعر",
+      "id": "s:25272926",
+      "value": 1500
+    },
+    {
+      "name": "هايلايت highlight I , هايلايت طويل جدا Very Long hair I",
+      "price": "1700 ر.س",
+      "duration": "180 دقيقة",
+      "group": "صبغه الشعر",
+      "id": "s:25272920",
+      "value": 1700
+    },
+    {
+      "name": "رنساج Rinsage I , رنساج قصير Rinsage Short hair I",
+      "price": "310 ر.س",
+      "duration": "60 دقيقة",
+      "group": "صبغه الشعر",
+      "id": "s:25272867",
+      "value": 310
+    },
+    {
+      "name": "رنساج Rinsage I , رنساج متوسط Rinsage Medium hair I",
+      "price": "540 ر.س",
+      "duration": "60 دقيقة",
+      "group": "صبغه الشعر",
+      "id": "s:25272856",
+      "value": 540
+    },
+    {
+      "name": "وي تريتمنت بارد للشعر المصبوغ",
+      "price": "320 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Hair Treatment I العناية وعلاجات الشعر",
+      "id": "s:20000243",
+      "value": 320
+    },
+    {
+      "name": "We treatment l وي تريتمنت  بارد للشعر الجاف",
+      "price": "320 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Hair Treatment I العناية وعلاجات الشعر",
+      "id": "s:20000225",
+      "value": 320
+    },
+    {
+      "name": "تنظيف فروة الرأس",
+      "price": "280 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Hair Treatment I العناية وعلاجات الشعر",
+      "id": "s:19584503",
+      "value": 280
+    },
+    {
+      "name": "معالج ترندي",
+      "price": "460 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Hair Treatment I العناية وعلاجات الشعر",
+      "id": "s:19584492",
+      "value": 460
+    },
+    {
+      "name": "معالج K18",
+      "price": "230 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Hair Treatment I العناية وعلاجات الشعر",
+      "id": "s:19584497",
+      "value": 230
+    },
+    {
+      "name": "معالج وي الحار بالفرشة",
+      "price": "تبدأ من 550 ر.س",
+      "duration": "90–105 دقيقة",
+      "group": "Hair Treatment I العناية وعلاجات الشعر",
+      "id": "s:22373239",
+      "value": 550
+    },
+    {
+      "name": "وي تريتمنت حار",
+      "price": "تبدأ من 745 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Hair Treatment I العناية وعلاجات الشعر",
+      "id": "s:19584537",
+      "value": 745
+    },
+    {
+      "name": "تنظيف مانيكير روسي جاف",
+      "price": "180 ر.س",
+      "duration": "45 دقيقة",
+      "group": "Nail Services | أظافر",
+      "id": "s:19584846",
+      "value": 180
+    },
+    {
+      "name": "تنظيف باديكير روسي جاف",
+      "price": "180 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Nail Services | أظافر",
+      "id": "s:19584875",
+      "value": 180
+    },
+    {
+      "name": "كلاسيك مانيكير",
+      "price": "120 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Nail Services | أظافر",
+      "id": "s:20000289",
+      "value": 120
+    },
+    {
+      "name": "كويك فكس مانيكير",
+      "price": "81 ر.س",
+      "duration": "30 دقيقة",
+      "group": "Nail Services | أظافر",
+      "id": "s:19584853",
+      "value": 81
+    },
+    {
+      "name": "كويك فكس باديكير",
+      "price": "95 ر.س",
+      "duration": "30 دقيقة",
+      "group": "Nail Services | أظافر",
+      "id": "s:22981519",
+      "value": 95
+    },
+    {
+      "name": "بياب - جل مانيكير",
+      "price": "400 ر.س",
+      "duration": "90 دقيقة",
+      "group": "Nail Services | أظافر",
+      "id": "s:19584700",
+      "value": 400
+    },
+    {
+      "name": "بياب - جل باديكير",
+      "price": "400 ر.س",
+      "duration": "90 دقيقة",
+      "group": "Nail Services | أظافر",
+      "id": "s:19584706",
+      "value": 400
+    },
+    {
+      "name": "إعادة تعبئة بياب مانكير",
+      "price": "345 ر.س",
+      "duration": "90 دقيقة",
+      "group": "Nail Services | أظافر",
+      "id": "s:19584720",
+      "value": 345
+    },
+    {
+      "name": "بياب - جل اكستنشن",
+      "price": "650 ر.س",
+      "duration": "150 دقيقة",
+      "group": "Nail Services | أظافر",
+      "id": "s:19584732",
+      "value": 650
+    },
+    {
+      "name": "ازالة بياب اكستنشن",
+      "price": "205 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Nail Services | أظافر",
+      "id": "s:19584749",
+      "value": 205
+    },
+    {
+      "name": "ازالة بياب",
+      "price": "105 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Nail Services | أظافر",
+      "id": "s:22981211",
+      "value": 105
+    },
+    {
+      "name": "اظافر صناعية",
+      "price": "تبدأ من 170 ر.س",
+      "duration": "60 دقيقة",
+      "group": "Nail Services | أظافر",
+      "id": "s:19584834",
+      "value": 170
+    }
+  ]
+}
